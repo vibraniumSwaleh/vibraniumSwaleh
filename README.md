@@ -1,6 +1,6 @@
 
 - 👋 Hi there! I'm Swaleh Hussein.
-- 👨‍💻 Full-Stack Web Developer and Embedded Systems Engineer.
+- 👨‍💻 Full-Stack Web Developer, Embedded Systems Engineer and FTTH & HFC Network Designer.
 - ✨ Passionate about creating innovative product-service hybrids through technology synergies!
 
 
